@@ -2,3 +2,4 @@ new3
 11
 aaa
 66666
+SELECT * LIMIT 1
